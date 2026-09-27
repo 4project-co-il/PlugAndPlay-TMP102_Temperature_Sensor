@@ -1986,7 +1986,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "10K"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2022,7 +2022,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C25804"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2035,7 +2035,7 @@
 				)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "8mm"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")

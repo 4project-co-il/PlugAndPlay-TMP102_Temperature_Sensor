@@ -3490,7 +3490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "10K"
 			(at 85.09 33.0199 0)
 			(effects
 				(font
@@ -3526,7 +3526,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "C25804"
 			(at 82.55 31.75 0)
 			(effects
 				(font
@@ -3535,7 +3535,7 @@
 				(hide yes)
 			)
 		)
-		(property "Feeder" ""
+		(property "Feeder" "8mm"
 			(at 82.55 31.75 0)
 			(effects
 				(font
